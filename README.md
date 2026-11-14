@@ -174,8 +174,3 @@ Durante o desenvolvimento, foram trabalhados conceitos de:
 ### Porsche Garage
 
 ![Porsche Garage](assets/garage.jpg)
-
-
-### Porsche Garage
-
-![Porsche Garage](assets/porsche-garage.png)
