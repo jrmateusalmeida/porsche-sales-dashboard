@@ -165,16 +165,15 @@ Durante o desenvolvimento, foram trabalhados conceitos de:
 - Novas métricas de desempenho.
 - Integração
 
-  ## Prévia da Dashboard
+## Prévia da Dashboard
 
 ### Visão geral
 
-![Porsche Sales Dashboard](assets/dash.jpeg)
+![Porsche Sales Dashboard](assets/dash.png)
 
 ### Porsche Garage
 
-![Porsche Garage](assets/garage.jpeg)
-
+![Porsche Garage](assets/garage.png)
 ![Porsche Sales Dashboard](assets/dashboard.png)
 
 ### Porsche Garage
