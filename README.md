@@ -169,12 +169,12 @@ Durante o desenvolvimento, foram trabalhados conceitos de:
 
 ### Visão geral
 
-![Porsche Sales Dashboard](assets/dash.png)
+![Porsche Sales Dashboard](assets/dash.jpg)
 
 ### Porsche Garage
 
-![Porsche Garage](assets/garage.png)
-![Porsche Sales Dashboard](assets/dashboard.png)
+![Porsche Garage](assets/garage.jpg)
+
 
 ### Porsche Garage
 
