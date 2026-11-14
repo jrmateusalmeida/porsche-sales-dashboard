@@ -164,3 +164,13 @@ Durante o desenvolvimento, foram trabalhados conceitos de:
 - Comparação entre períodos comerciais.
 - Novas métricas de desempenho.
 - Integração
+
+  ## Prévia da Dashboard
+
+### Visão geral
+
+![Porsche Sales Dashboard](assets/dashboard.png)
+
+### Porsche Garage
+
+![Porsche Garage](assets/porsche-garage.png)
